@@ -38,25 +38,25 @@ ER 프로젝트는 코로나 19로 인한 2020년의 특수한 상황을 고려�
 과정은 이전의 강의에서 배웠던 것처럼 이와 같은 과정으로 진행하였습니다. 공감, 정의, 아이디어, 프로토타입 그리고 테스트까지. 그리고 방금 전에도 말했듯이 각각의 단계를 진행하면서 피드백을 하였습니다. 그리고 피드백을 하고 좀 더 수요자들의 요구에 맞는 프로그램이 될 수 있도록 수정 및 보완을 하고 저희 조 자체적으로도 고찰을 하였습니다.
 
 <img src="https://user-images.githubusercontent.com/84301776/128963524-37208a54-6309-464e-bd13-1d88fee11b24.png"  width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/84301776/128963528-b77c0332-e9d9-43e3-898b-14b2be84ca9e.png"  width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/84301776/128963531-7aaefb2d-4c41-490d-a9b9-3db07d6cfc9e.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965704-04161862-112c-4c0c-9092-c56b4eec500a.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965503-3230d56b-b9a2-4509-b973-10532b5eea89.png"  width="1000" height="500">
 <img src="https://user-images.githubusercontent.com/84301776/128963534-605dd899-fea1-4397-89d1-3034c11012f3.png"  width="1000" height="500">
 
 ####일단 프로젝트 초기에는 공감 활동을 진행하여 저희 조 전체가 수요자가 되었다고 가정하고 요구사항을 생각해봤습니다. 그 이후에 실제 수요자들이 무엇을 필요로 하고 무엇이 불편한지에 대해서 근처의 지인들에게 인터뷰를 하고 정보를 수집하였습니다. 인터뷰를 통해서 수요자들의 실제 생각을 듣고 나니 인터뷰 전에 예상했던 내용과 다른 부분이 존재했습니다. 
 ####추가적으로 경희대학교 에브리타임을 통해서 이러한 수요들을 파악하여 보기도 하였습니다. 이를 통해서 방을 구하는 사람 혹은 양도하려는 사람이 꽤 존재한다는 것을 알 수 있었습니다.
 추가적인 활동으로 직접 방을 구해보기도 했습니다. 문제 상황을 정확히 파악하고 이해하기 위해서 이러한 활동을 부차적으로 진행한 바 있습니다.
 
-<img src="https://user-images.githubusercontent.com/84301776/128963535-f3db3d71-1d67-440d-a084-2d203c3e3754.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965508-796dfa68-3ab2-4f79-a624-f32c9a5476c2.png"  width="1000" height="500">
 
 정의 단계를 통해서 무엇이 문제였는지 정확하게 결정하기 위해서 설문조사 형태로 인터뷰를 진행하였고 조사 대상자의 생각을 들어보고 수요가 상당히 많다는 점을 알 수 있었습니다. 그래서 이런 수요들을 기반으로 하여 충분히 이 프로젝트를 통해서 KT조에서 수요자들에게 가치 있고 유용한 공급을 할 수 있겠다고 판단하였습니다.
 정의 단계에서 결정한 문제점을 해결할 수 있는 방법을 고안하기 위해서 실제 사용자들의 상황과 요구사항을 고려하고 문제의 근본적인 측면을 고려하여 브레인스토밍 및 브레인라이팅을 진행하였습니다.
 
-<img src="https://user-images.githubusercontent.com/84301776/128963540-26f3a0d7-1b95-4552-9efa-31c30a1f90da.png"  width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/84301776/128963542-9d4c4dc6-698b-4684-85d1-1d1974180415.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965509-8357aee9-e599-40e2-bf0f-583112861159.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965511-679f3d05-8c69-4b00-ba33-be2ecb642156.png"  width="1000" height="500">
 
 시제품을 개발하기 위해서 Marvel 앱을 통해서 전체적인 구상을 기획하였고 Grab 이라는 기존의 어플을 모티베이션으로 하였습니다. 이 Grab 어플은 시작하면 지도와 목적지 화면이 뜨는 간단한 인터페이스를 사용한 것이 특징인데 저희는 이 어플처럼 인터페이스를 간단하게 구현하여 처음 쓰는 사용자들도 직관적으로 파악할 수 있고 활용하기 쉽게 만들려고 하였습니다. 지도 상의 방의 위치를 클릭하면 그 방의 상세 정보가 뜨는 형식으로 구현하는 것을 목표로 프로젝트를 진행하였습니다.
 
-<img src="https://user-images.githubusercontent.com/84301776/128963544-38e7557a-8d74-4498-8b11-79ee254f8494.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128965513-07469a86-886b-4d65-9ce3-1ecd869d0932.png"  width="1000" height="500">
 
 프로토타입을 기반으로 한 피드백의 내용입니다. 10조 분들에게 이 프로젝트의 내용을 설명해드리고 질문을 한 결과 이와 같은 의문점들을 제시하여 주셨습니다.
 의문점들을 듣고 저희가 자체적인 피드백을 한 결과는 다음과 같습니다. 저희가 기존에 피드백을 했던 내용의 경우에는 현상 유지를 하였고 새로운 피드백에 대해서는 그에 대한 방안을 마련해봤습니다.
@@ -65,7 +65,7 @@ ER 프로젝트는 코로나 19로 인한 2020년의 특수한 상황을 고려�
 
 
 ## 💻 Project Architecture
-<img src="https://user-images.githubusercontent.com/84301776/128962461-3d481ed0-40dc-4450-a4a5-b6df92fd047a.png"  width="800" height="400">
+<img src="https://user-images.githubusercontent.com/84301776/128965519-b876ac86-bcac-473d-9ced-b5de2047f19e.png"  width="800" height="400">
 <img src="https://user-images.githubusercontent.com/84301776/128962466-7ded0675-1d8f-49aa-b494-b334924aadf5.png"  width="800" height="400">
  
    
