@@ -23,8 +23,8 @@ ER 프로젝트는 다음과 같은 과정을 통해서 진행이 되었습니�
 - [네이버맵 API](https://www.ncloud.com/product/applicationService/maps)
 
 ## 💻 User Interface 
-<img src="https://user-images.githubusercontent.com/84301776/128961189-ad516753-664f-43c5-8ce3-e8bbd7459703.png"  width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/84301776/128961192-82d8ee5a-f568-466a-8241-dc0bab506742.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128961523-2adbc98f-77fa-4811-8955-a67fba307186.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128961554-60d83374-2a80-4caa-8094-227673baaf77.png"  width="1000" height="500">
    
 ## 📋 기술 스택
 - Android Studio
