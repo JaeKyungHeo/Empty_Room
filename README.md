@@ -1,5 +1,5 @@
 ## 🔍 About the Project
-<img src="https://user-images.githubusercontent.com/84301776/128961055-061248f1-b3aa-49bd-b6ba-d50e97439798.png"  width="300" height="600">
+<img src="https://user-images.githubusercontent.com/84301776/128961055-061248f1-b3aa-49bd-b6ba-d50e97439798.png"  width="600" height="600">
 
 > 대학생들의 방 문제와 경제적 문제를 동시에 해결하고자 기획한 프로젝트입니다.
 ER 프로젝트는 다음과 같은 과정을 통해서 진행이 되었습니다. 특히, 이 강의는 ‘디자인적 사고’라는 과목이기 때문에 각각의 단계마다 틈틈이 피드백을 하고 보완을 하려 노력했습니다. 
