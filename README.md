@@ -1,4 +1,6 @@
 ## 🔍 About the Project
+<img src="https://user-images.githubusercontent.com/84301776/128961055-061248f1-b3aa-49bd-b6ba-d50e97439798.png"  width="300" height="600">
+
 > 대학생들의 방 문제와 경제적 문제를 동시에 해결하고자 기획한 프로젝트입니다.
 ER 프로젝트는 다음과 같은 과정을 통해서 진행이 되었습니다. 특히, 이 강의는 ‘디자인적 사고’라는 과목이기 때문에 각각의 단계마다 틈틈이 피드백을 하고 보완을 하려 노력했습니다. 
 우선 ER 프로젝트는 코로나 19로 인한 2020년의 특수한 상황을 고려하여 그로 인한 방의 수요가 변할 것이라 예측하여 그 수요를 기대하고 기획한 프로젝트입니다. 
@@ -21,14 +23,14 @@ ER 프로젝트는 다음과 같은 과정을 통해서 진행이 되었습니�
 - [네이버맵 API](https://www.ncloud.com/product/applicationService/maps)
 
 ## 💻 User Interface 
-<img src="https://user-images.githubusercontent.com/84301776/127002637-50025e8f-9f98-4c4f-a94b-13c46b49eb46.png"  width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/84301776/127003107-9fd049e3-dd76-4b0a-b606-6939d28c5c4a.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128961189-ad516753-664f-43c5-8ce3-e8bbd7459703.png"  width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/84301776/128961192-82d8ee5a-f568-466a-8241-dc0bab506742.png"  width="1000" height="500">
    
 ## 📋 기술 스택
 - Android Studio
-- Python Flask![image](https://user-images.githubusercontent.com/84301776/128960530-500f7ba5-a0c2-4272-b694-4e93796849f9.png)
-- REST API![image](https://user-images.githubusercontent.com/84301776/128960564-72ce4566-e106-4a07-a47f-f50f2309df75.png)
-- GCP![image](https://user-images.githubusercontent.com/84301776/128960585-a9cb1065-f61a-437e-a97a-f3a9b0161068.png)
+- Python Flask
+- REST API
+- GCP
  
 
 ## ✏️ 프로젝트 사용 방법
@@ -41,9 +43,8 @@ https://github.com/JaeKyungHeo/Empty_Room.git
 
 
 ## 💻 Project Architecture
-<img src="https://user-images.githubusercontent.com/84301776/127003221-e4201c23-ef5e-41c4-b874-937e9d402bdb.png"  width="1000" height="600">
-
-  
+<img src="https://user-images.githubusercontent.com/84301776/128961139-c1070a3b-48fe-4eae-b846-9d4e7a5445fa.png"  width="800" height="400">
+ 
    
 ## ✨ Contributors 
 
