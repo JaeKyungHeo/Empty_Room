@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/building"
+        android:checkable="true"
+        android:title="건물" />
+    <item
+        android:id="@+id/traffic"
+        android:checkable="true"
+        android:title="교통정보" />
+    <item
+        android:id="@+id/transit"
+        android:checkable="true"
+        android:title="대중교통" />
+</menu>
